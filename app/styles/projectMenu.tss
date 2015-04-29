@@ -28,3 +28,31 @@
 'ImageView[platform=ios]':{
 	preventDefaultImage: true
 }
+
+"#button1" : {
+	backgroundImage: "/images/button1.jpg"
+}
+
+"#button2" : {
+	backgroundImage: "/images/button2.jpg"
+}
+
+"#button3" : {
+	backgroundImage: "/images/button3.jpg"
+}
+
+"#button4" : {
+	backgroundImage: "/images/button4.jpg"
+}
+
+"#button5" : {
+	backgroundImage: "/images/button5.jpg"
+}
+
+"#button6" : {
+	backgroundImage: "/images/button6.jpg"
+}
+
+"#projectMenu" : {
+	backgroundImage: "/images/projectMenu.jpg"
+}
